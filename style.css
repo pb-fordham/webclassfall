@@ -1,0 +1,30 @@
+p {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style:italic;
+    text-align: left;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 160px;
+    color:rgba(220, 20, 60, 0.5);
+    /* margin-bottom: 10px; this is cancelled */
+    /* margin-top: 0; this is a comment */
+    margin: 50px 0 10px 0;
+    padding: 50px 0 5px 0;
+    line-height: 100px;
+}
+h2 {
+    color: rgb(155, 11, 222);
+    text-align: center;
+}
+body {
+    background-color: yellow;
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+h3 {
+    text-align: right;
+}
